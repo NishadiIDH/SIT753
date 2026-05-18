@@ -6,3 +6,4 @@ Professional Practice in IT
 3. A new commit
 4. A new Commit
 5. A new commit
+6. commit
